@@ -1,6 +1,4 @@
-Sure! Here's an example README file in Markdown format for a Rust project that implements the `grep` utility:
-
-# Rust Grep
+# MINI-GREP
 
 This is a command-line utility that implements the `grep` command in Rust. It allows you to search for a pattern in one or more files and print the matching lines.
 
